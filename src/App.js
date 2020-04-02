@@ -3,7 +3,7 @@ import { TaskBanner } from "./components/TaskBanner";
 import { TaskRow } from "./components/TaskRow";
 import { TaskCreator } from "./components/TaskCreator";
 import { VisibilityControl } from "./components/VisibilityControl";
-import logo from'./logo.svg';
+
 
 
 function App() {
